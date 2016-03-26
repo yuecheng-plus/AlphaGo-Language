@@ -1,4 +1,7 @@
 # generated files
 bin/
+obj/
 *.cbp
 *.layout
+*.depend
+
